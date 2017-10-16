@@ -2,11 +2,11 @@
 
 Follow these instruction to deploy this example:
 
-1. git clone https://github.com/Gajotres/IonicFormValidation.git
-2. cd IonicFormValidation
+1. git clone https://github.com/Gajotres/IonicShareDataBetweenPages.git
+2. cd IonicShareDataBetweenPages
 3. ionic cordova platform add android
 4. npm install
 5. ionic serve -> To see if everything is working as it should
 6. ionic run android -l -c -s
 
-An old version (Ionic 2) of this tutorial can be found here: https://github.com/Gajotres/Ionic2FormValidation
+An old version (Ionic 2) of this tutorial can be found here: https://github.com/Gajotres/Ionic2ShareDataExample
